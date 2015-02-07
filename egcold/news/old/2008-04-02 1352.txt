@@ -1,0 +1,1 @@
+					<a href="elections.php">EGC Spring elections</a> are right around the corner! For everyone intersted in running, our info session is just around the corner, Monday, April 7th at 7:00 PM in the Busch Campus Center 116. If you cannot make the meeting and have questions, contact <a href="mailto:sodhiar@rutgers.edu">Rohit Sodhia</a>.

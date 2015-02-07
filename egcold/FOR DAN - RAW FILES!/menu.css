@@ -1,0 +1,107 @@
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+#menu .mainTitle {
+	background: #FFFFFF;
+	border: 2px solid #000000;
+	border-bottom: none;
+	padding: 3px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	width: 128px;
+}
+
+#menu div.menuList {
+	border: 1px solid black;
+	border-bottom-width: 0;
+	width: 136px;
+}
+
+#menu div.menuList ul.menuGroup {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#menu div.menuList div.menuGroup a {
+	display: block;
+	text-align: left;
+	padding: 3px 0;
+	padding-left: 5px;
+	padding-right: 4px;
+	width: 120px; /*185px minus all left/right paddings and margins*/
+	text-decoration: none;
+	color: white;
+	background-color: #E96C00;
+	border-bottom: 1px solid #ffae69;
+	border-left: 7px solid #b45300;
+	font-size: .8em;
+}
+
+* html #menu div.menuList div.menuGroup a { /*IE only */
+	width: 138px; /*IE 5*/
+	w\idth: 120px; /*185px minus all left/right paddings and margins*/
+}
+
+#menu div.menuList div.menuGroup a:hover {
+	background-color: #e94200;
+	border-left-color: #b44000;
+}
+
+#menu div.menuList .menuTitle {
+	color: white;
+	border-bottom: 1px solid black;
+	padding: 3px 0;
+	padding-left: 5px;
+	background: #666666 url(downArrow.gif) center right no-repeat;
+	font-weight: bold;
+}
+
+/*#menu div.menuList div.menuGroup .menuTitle {
+	border-left: 7px solid black;
+	background: #666666 url(rightArrow.gif) center right no-repeat;
+}
+
+#menu div.menuList div.menuGroup .menuTitle a {
+	background: none;
+	padding: 0px;
+	margin: 0px;
+	border: none;
+	font-size: 100%;
+	width: 85px;
+}
+
+#menu div.menuList div.menuGroup .menuTitle a:hover {
+	background: #666666;
+}
+
+#menu div.menuList div.menuGroup div.menuGroup a {
+	border-left-width: 12px;
+}*/
+
+.menuTitle a {
+	width: 110px;
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+
+
+/* Suckertree Menu 
+ul.menuGroup li {
+	position: relative;
+}*/
+	
+/*1st level sub menu style 
+ul.menuGroup li ul {
+	position: absolute;
+	width: 140px;*/ /*sub menu width
+	top: 0;
+	display: hidden;
+}*/
+	
+/* Holly Hack for IE \
+* html .suckerdiv ul li { float: left; height: 1%; }
+* html .suckerdiv ul li a { height: 1%; }*/
+/* End */

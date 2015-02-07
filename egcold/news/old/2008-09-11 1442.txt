@@ -1,0 +1,3 @@
+Society events can now be found on the <a href="/societies/societyCalendar.php">Society Calendar</a> page, so check them out! If you have any society events to add, please send the information to the <a href="mailto:mendat -AT- eden.rutgers.edu">webmaster</a> (fix the formatting of the email address first).
+<br>
+<br>

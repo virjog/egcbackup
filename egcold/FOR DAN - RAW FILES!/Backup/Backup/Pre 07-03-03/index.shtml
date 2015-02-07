@@ -1,0 +1,108 @@
+<html>
+<head>
+	<title>Engineering Governing Council</title>
+	
+	<link href="egc.css" type="text/css" rel="stylesheet">
+	<link href="suckertree.css" type="text/css" rel="stylesheet">
+	
+	<script src="js.js" type="text/javascript"></script>
+	<script src="iframe.js" type="text/javascript"></script>
+</head>
+
+<body>
+<table align="center" width="750px" cellspacing="0px" style="margin-top: 10px;">
+	<tr width="100%" height="150px">
+		<td colspan="2" background="top.jpg">	
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="150px" valign="top" style="background-color: #F3A200;">
+			<div align="center" class="suckerdiv" style="padding-top: 20px; padding-bottom: 15px">
+				<ul id="main_menu">
+					<li><a href="home.html" target="main">Home</a></li>
+					<li><a href="egc_info.html" target="main">EGC</a>
+						<ul>
+							<li><a href="documents/stratigic_plan_07-08.pdf" target="_blank">President's Mission Statement</a></li>
+							<li><a href="members.html" target="main">Members</a></li>
+							<li><a href="committees.html" target="main">Committees</a></li>
+							<li><a href="elections.html" target="main">Elections</a></li>
+							<li><a href="cup.html" target="main">Engineering Cup</a></li>
+							<li><a href="http://coewww.rutgers.edu/openhouse" target="_blank">Open House</a></li>
+						</ul>
+					</li>
+					<li><a href="docs.html" target="main">Documents</a>
+						<ul>
+							<li><a href="constitution.html" target="main">Constitution</a></li>
+							<li><a href="standing_rules.html" target="main">Standing Rules</a></li>
+							<li><a href="alloc_guidelines.html" target="main">Allocation Guidelines</a></li>
+							<li><a href="conduct.html" target="main">Rules of Ethical Conduct</a></li>
+							<li><a href="meetdocs.html" target="main">Agenda/Minutes/ Bills/Resolutions</a></li>
+						</ul>
+					</li>
+					<li><a href="society_info.html" target="main">Society Info</a>
+						<ul>
+							<li><a href="society_list.html" target="main">Recognized Societies</a></li>
+							<li><a href="funding_info.html" target="main">Funding Info</a></li>
+							<li><a href="grill.html" target="main">Grill and Table Rental</a></li>
+						</ul>
+					</li>
+					<li><a href="news_archive.html" target="main">News Archive</a></li>
+				</ul>
+			</div>
+			
+			<div align="center" class="suckerdiv" style="padding-bottom: 10px">
+				<ul id="ru_menu">
+					<li><a href="#">Academics</a>
+						<ul>
+							<li><a href="http://coewww.rutgers.edu" target="_blank">School of Engineering</a></li>
+							<li><a href="https://www.acs.rutgers.edu/grades" target="_blank">Transcripts</a></li>
+							<li><a href="http://www.ecs.rutgers.edu" target="_blank">Engineering Computer Services</a></li>
+						</ul>
+					</li>
+					<li><a href="#">RU Links</a>
+						<ul>
+							<li><a href="http://rusa.rutgers.edu" target="_blank">Rutgers University Student Assembly</a></li>
+							<li><a href="http://nbpweb.rutgers.edu/menus/studgov.shtml" target="_blank">Student Governing Associations</a></li>
+							<li><a href="http://housing.rutgers.edu" target="_blank">Housing</a></li>
+							<li><a href="http://food.rutgers.edu" target="_blank">Dining Services</a></li>
+							<li><a href="http://rudots.rutgers.edu" target="_blank">Department of Transportation Services</a></li>
+							<li><a href="http://health.rutgers.edu" target="_blank">Health Centers</a></li>
+							<li><a href="http://studentaffairs.rutgers.edu/" target="_blank">Office of Student Affairs</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</td>
+		
+		<td rowspan="2" width="600px" valign="top" style="padding: 20px 15px 5px 15px; border-left: solid 1px #444444; border-top: solid 1px #444444;">
+			<iframe id="main" name="main" frameborder="0" width="600px" scrolling="no" src="home.html"></iframe>
+			
+			<div style="font-size: 12px; margin: 20px 0px 10px 0px;">
+				<hr align="center" color="#BBBBBB" width="100%" size="1px" style="margin: 0px 0px 5px 0px;">
+				<center>
+					Questions? Contact the <a href="mailto: egc_exec@email.rutgers.edu" class="email">EGC Executive Board</a><br>
+					<br>
+					© 2007 Rutgers, The State University of New Jersey. All rights reserved.
+					
+					<!-- #include virtual="copyright.txt" -->
+				</center>
+			</div>
+		</td>
+	</tr>
+	
+	<tr><td width="150px" align="center" valign="bottom" style="background-color: #F3A200; padding-bottom: 12px;">
+		Webmaster: <br>
+		<a href="mailto:sodhiar@eden.rutgers.edu" class="email">Rohit Sodhia</a>
+	</td></tr>
+</table>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1181147-1";
+urchinTracker();
+</script>
+</body>
+</html>

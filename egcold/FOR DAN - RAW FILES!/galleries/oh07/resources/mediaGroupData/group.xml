@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0 Beta 4</authorApplication>
+<creationDate>07/04/07, 04:19:01 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>Engineering Open House 2007</groupTitle>
+<groupDescription></groupDescription>
+<siteTitle>Engineering Governing Council</siteTitle>
+<contactName>EGC Executive Board</contactName>
+<contactEmail>mailto:egc_exec@email.rutgers.edu</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="800" maxheight="450" />
+<imageSize size="medium" maxwidth="1040" maxheight="520" />
+<imageSize size="large" maxwidth="1150" maxheight="650" />
+</sizes>
+<media totalGallerySize="16">
+<item>
+<title></title>
+<description>The welcome tent</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5D31E96A-0CDE-4B8A-9E19-A1713AEFD990" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141494.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141494.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141494.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141494.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>A display of what engineering tangibly produces</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7BC555E4-8FAE-48FA-9F5B-637095524994" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141497.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141497.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141497.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141497.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Tours around campus and to the dormatories</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="778A5FD8-4587-4936-80B8-BA9FA39317F2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141499.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141499.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141499.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141499.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Rutgers Formula Racing</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B8EC47D3-D95B-446B-AB48-B14D74879316" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141502.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141502.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141502.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141502.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Engineering society members talk about Rutgers</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="39F6D36A-F32D-447E-8A53-008BEDA4BEB1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141509.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141509.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141509.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141509.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Rutgers Society for Women Engineers</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3C478F8D-A1B0-4877-A377-9CA167BD28B0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141515.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141515.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141515.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141515.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Rutgers Pi Tau Sigma</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C8507AA9-E36C-4F2F-B48E-FC0A77C860EF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141519.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141519.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141519.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141519.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The EGC table</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C6174B09-845F-46CE-B360-E33ECA721CCC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141527.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141527.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141527.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141527.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0329F9FA-B30C-48C2-AA0D-A902EA33A0AC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141548.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141548.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141548.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141548.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B1B5C161-1168-4316-B000-B0F235BCE2B1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141551.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141551.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141551.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141551.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>A photo of the fine welcomers, and the walking info booth</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A6E5F668-E905-48E5-B8BD-B6B3D4615F98" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141557.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141557.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141557.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141557.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The Engineering lawn as the day wound down</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1FDAB249-5D35-42F2-89DF-1167D2E8F1E6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141559.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141559.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141559.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141559.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The food line</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A720BE42-C617-4774-8B67-F9B163F94137" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141561.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141561.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141561.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141561.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The rest of the food line</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EE398DD9-97B0-4D62-9029-4B237BDF06BE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141564.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141564.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141564.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141564.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Apparently Divya approves of her Sunkist</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3BE3192F-46FD-444F-8DFC-CBE9A7FAF68C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141607.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141607.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141607.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141607.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Cooking is the life for these guys</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5A406D7B-C642-4A0D-A44E-6DEB437AEAA2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/P4141626.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/P4141626.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/P4141626.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/P4141626.jpg" height="72" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

@@ -1,0 +1,176 @@
+/*
+	Engineering Governing Council CSS Stylesheet
+	Designed by Rohit Sodhia
+*/
+
+/* Basics */
+body, body.sub, table, input, textarea {
+	font-family: Times New Roman;
+	font-size: 14px;
+	text-align: justify;
+}
+
+body {
+	background-color: #444444;
+}
+
+body.sub {
+	background-color: #FFFFFF;
+}
+
+table, table tr, table tr td {
+	background-color: #FFFFFF;
+	border: none;
+	border-collapse: collapse;
+}
+
+img {
+	border: none;
+}
+
+
+/* Link Controls */
+a:link, a:visited, a:link.link, a:link.email, a:visited.link, a:visited.email {
+	color: #3366FF;
+	text-decoration: none;
+}
+
+a:hover, a:hover.link, a:hover.email {
+	color: #669900;
+	text-decoration: underline;
+}
+
+a:active, a:active.link, a:active.email {
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+/*a:link.email {
+	color: #669900;
+	text-decoration: none;
+}
+
+a:visited.email {
+	color: #669900;
+	text-decoration: none;
+}
+
+a:hover.email {
+	color: #9900FF;
+	text-decoration: underline;
+}
+
+a:active.email {
+	color: #669900;
+	text-decoration: underline;
+}*/
+
+a:link.society, a:visited.society {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+a:hover.society {
+	text-decoration: underline;
+}
+
+a:active.society {
+	color: #FFCC00;
+}
+
+/*a:link.blank {
+	text-decoration: none;
+	color: #000000;
+	padding: 0px 0px 0px 15px;
+	background-image: arrow_right.gif;
+	background-repeat: no-repeat;
+}
+
+a:visited.blank {
+	text-decoration: none;
+	color: #000000;
+	padding: 0px 0px 0px 15px;
+	background-image: arrow_right.gif;
+	background-repeat: no-repeat;
+}
+
+a:active.blank {
+	text-decoration: none;
+	color: #000000;
+	padding: 0px 0px 0px 15px;
+	background-image: arrow_right.gif;
+	background-repeat: no-repeat;
+}
+
+a:hover.blank {
+	text-decoration: none;
+	color: #000000;
+	padding: 0px 0px 0px 15px;
+	background-image: arrow_right.gif;
+	background-repeat: no-repeat;
+}*/
+
+
+/* Classes */
+table.title {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 20px;
+	border: none;
+	color: #FF8822;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+table.title tr td hr {
+	color: #FF8822;
+	background-color: #FF8822;
+	border: none;
+	height: 2px;
+	width: 100%;
+}
+
+table.subtitle {
+	font-family: Arial;
+	font-size: 17px;
+	border: none;
+	color: #FF8822;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+table.subtitle tr td hr {
+	color: #FF8822;
+	background-color: #FF8822;
+	border: none;
+	height: 1px;
+	width: 60px;
+}
+
+.header {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 16px;
+	color: #FF8822;
+	margin: 17px 0px 3px 0px;
+}
+
+.council {
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.committee {
+	font-weight: bold;
+	color: #0000FF;
+}
+
+.info {
+	font-size: 12px;
+	text-indent: 30px;
+	margin: 10px 30px;
+}
+
+.submit {
+	background: #FFBB44;
+}

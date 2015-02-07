@@ -1,0 +1,3 @@
+Online Grill Rentals are now available through the EGC website. All requests for Grill Rentals have to be made through the <em>Grill and Table Rental Online</em> form located under <em>Society Info</em> in the main menu. The form can also be accessed by clicking <a href ="societies/grillRentalOnline.php">here</a>
+<br>
+<br>

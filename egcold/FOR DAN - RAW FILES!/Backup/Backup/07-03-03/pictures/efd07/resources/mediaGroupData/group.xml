@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0 Beta 4</authorApplication>
+<creationDate>07/04/07, 04:11:17 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>Engineering Field Day 2007</groupTitle>
+<groupDescription></groupDescription>
+<siteTitle>Engineering Governing Council</siteTitle>
+<contactName>EGC Executive Board</contactName>
+<contactEmail>mailto:egc_exec@email.rutgers.edu</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="800" maxheight="450" />
+<imageSize size="medium" maxwidth="1040" maxheight="520" />
+<imageSize size="large" maxwidth="1150" maxheight="650" />
+</sizes>
+<media totalGallerySize="53">
+<item>
+<title></title>
+<description>President McArthur getting ready for a dunking</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4075F25C-C57E-4CD9-80F0-16D58ABA1E06" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1635.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1635.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1635.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1635.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>shawn feels the tension building</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C78D1F25-4BBF-4B47-869A-6977D967D067" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1636.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1636.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1636.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1636.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="89228C23-CD01-44CC-970A-F895C304CFC7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1642.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1642.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1642.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1642.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Food is always a great way to pull in engineering students</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E5B01328-4857-4272-AC76-480A9F46646A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1643.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1643.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1643.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1643.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Our great grilling crew</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E0570DD5-5352-45E1-AA35-D0F0E586C3E4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1647.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1647.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1647.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1647.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The grill crew's support staff</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C919B87A-C854-4D2B-9062-3277B9E8F230" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1648.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1648.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1648.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1648.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Acrobatics at the inflatable castle</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="191C157C-87A7-4128-BB80-0E38F0383921" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1658.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1658.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1658.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1658.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>These guys did some crazy stuff</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CDC599C6-919C-490A-96DB-1C0A814797E7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1661.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1661.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1661.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1661.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Cotton candy... bad for the teeth, good for the soul</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EDF7BC1B-FF78-418C-8480-F00559B14B4D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1670.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1670.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1670.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1670.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Even sno-kones!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5EBD34FB-CEF8-4E05-BAEC-073B16E7D2B3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1672.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1672.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1672.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1672.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>President McArthur finally takes a dunk... and is happy about it</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A794E3DF-B147-4157-B5BB-211655F532AC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1681.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1681.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1681.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1681.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>OLYMPUS DIGITAL CAMERA</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A7D2A0BD-F8D3-4E82-A6EF-B0AD6EEA4C7C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1688.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1688.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1688.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1688.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Dean Brown, ready for the dunk tank</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9C5E4875-B3A0-4C0E-B250-2A63DA6C5244" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1715.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1715.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1715.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1715.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Dean Brown's throw box</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="72CD404A-C2ED-4EF8-8F89-3971D0A475D1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1726.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1726.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1726.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1726.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>You have to throw from the box, even if it is 30ft way!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9C3988FB-4ECB-472F-9318-5BEBB9041420" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1738.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1738.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1738.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1738.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Some staff throwing for some cathartic release</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="62BC5A51-9C31-434C-A04A-95C4D54546F0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1751.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1751.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1751.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1751.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Only dunking Dean Brown could</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8ABC46C8-1D0C-4363-A884-9344EF997FA5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1757.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1757.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1757.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1757.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Dean Brown finally takes a fall</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="44381717-1465-4493-8F52-82D0FE7FFCBF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1774.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1774.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1774.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1774.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>And he's up again!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="94FFE763-230D-47D6-A468-47B77C33847E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1779.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1779.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1779.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1779.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>A friendly game of football, Europe style...</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AEE7928F-12C8-47C6-A377-055EB901A4F7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1799.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1799.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1799.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1799.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>... and a friendly game of football, American style.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="92426FB6-8CE4-4C60-A26D-D467B7C31A0C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1814.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1814.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1814.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1814.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The grilling crew, still at it... I'm sure they're hungry by now.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5BCDB9F8-4879-46DA-BDEC-AE549DBB48D2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1823.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1823.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1823.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1823.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="64345A59-E678-435C-9A9E-F551C1D4372C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1826.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1826.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1826.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1826.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Hotdogs, hamburgers, and tons of condiments</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="965AE078-927D-4D2C-9AF2-3C2CAD6146A5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1832.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1832.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1832.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1832.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Ekta ready for a swim</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DE28216E-ED61-40CC-B224-BFF4617A59F4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1867.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1867.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1867.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1867.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>She's obviously scared</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B4EA0C40-9BF0-423B-A677-C9815237BD0D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1879.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1879.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1879.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1879.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>And now a professor gives it a go...</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="55AFE855-2CB6-4054-A4AA-991CE2B33BE9" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1888.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1888.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1888.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1888.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>... and is dunked pretty quickly.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C3B75934-A5D5-4B95-A593-377E5A442E65" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1890.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1890.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1890.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1890.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CCCAB5F7-D05D-49B7-BACC-3418BFD65F02" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1891.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1891.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1891.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1891.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Obviously doesn't mind</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="05B6BEEA-F69C-4B9B-B133-126AB5E878E7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1892.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1892.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1892.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1892.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Ready all over again</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C5185F79-7011-4879-A027-951E4928BEFF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1903.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1903.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1903.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1903.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Croquet? Who plays croquet?</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F1C65C3F-ED03-44CB-91E7-3DA76A8AC92A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1907.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1907.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1907.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1907.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The presentation fo the coveted Engineering up...</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="975F9402-A715-4F14-8AD3-9A5A2D7A1C9C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1920.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1920.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1920.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1920.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>... to the Biomedical Engineers!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F8AC0C26-8B94-492A-804B-4C0D6D3430AA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1921.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1921.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1921.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1921.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Proudly accepted by Dr. Androulakis and Rikhil Patel</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="703D15B3-2489-404E-B4A3-1D1A3F72891E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1923.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1923.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1923.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1923.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="789150F3-4E80-46F6-B1CE-C1D0ED6952DF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1926.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1926.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1926.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1926.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="61999F4A-5CF7-45D8-A2E7-2A2D5ABB8EBF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1928.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1928.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1928.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1928.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>On the far right, the 2007-2008 president</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C3170375-7E2F-4133-9F7B-855DC08CC649" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1931.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1931.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1931.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1931.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Rikhil with the Engineering Cup</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C7BA9AEA-A1B5-4759-AE63-ABE181186BD9" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1936.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1936.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1936.jpg" height="450" width="338" />
+<rendition size="thumb" src="bin/images/thumb/100_1936.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Hurrah for the Cup!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1F2A6F19-6BD8-4E7D-9EFD-342F27DF443C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1949.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/100_1949.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1949.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1949.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6376E161-2401-47E1-ABD7-1E9172590855" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1951.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/100_1951.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/100_1951.jpg" height="450" width="337" />
+<rendition size="thumb" src="bin/images/thumb/100_1951.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Some of the graduating BMEs</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DDA7CD8F-D55D-420D-873D-D8C61A313E3C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1969.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1969.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1969.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1969.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8BF6FC33-0E76-4D08-A56D-66BD378FB785" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_1972.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_1972.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_1972.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_1972.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Divya, trying to meditate in a ruckus</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A044CFAB-4A91-46B0-8651-E900D14DA404" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2007.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2007.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2007.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2007.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>And the girls attack</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DAA01779-D982-4B17-A7C5-FA1BCA05470B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2011.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2011.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2011.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2011.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2EC52682-6BEA-4575-90F1-4B5F860375B4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2024.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2024.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2024.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2024.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Past and future presidents overlooking the Engineering lawn</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="024155C8-1E92-4EF7-BB6B-BC419E3482FC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2055.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2055.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2055.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2055.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>President incumbant Spatacco holding an imaginary wine glass</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="80EE25E6-0120-4007-B2F1-C96A9EC5AEEF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2056.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2056.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2056.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2056.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>I'm not sure what they're looking at</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8ABD2132-84DA-4CDD-96B4-4D155D38D81F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2059.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2059.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2059.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2059.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>A bird? A plane?</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D37FADDE-9DE4-48CB-B021-63E8115A4AAE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2065.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2065.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2065.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2065.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Andrezj sneaking up on Brian</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9F3E3918-A277-43A8-8114-15590A90A6EE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2080.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2080.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2080.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2080.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Gasp, Brian is actually Spider-man!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0E0CCF6E-0A77-4BBE-AF44-D18EB18393BA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2086.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2086.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2086.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2086.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E9F12EC5-A8DD-4CE3-A6B0-326F504BFF2F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/100_2090.jpg" height="650" width="867" />
+<rendition size="medium" src="bin/images/medium/100_2090.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/100_2090.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/100_2090.jpg" height="72" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

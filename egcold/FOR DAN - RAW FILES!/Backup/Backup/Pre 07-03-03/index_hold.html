@@ -1,0 +1,145 @@
+<html>
+<head>
+	<title>Engineering Governing Council</title>
+	
+	<script type="text/javascript">
+	
+	//SuckerTree Vertical Menu (Aug 4th, 06)
+	//By Dynamic Drive: http://www.dynamicdrive.com/style/
+	
+	var menuids=["main_menu","ru_menu"] //Enter id(s) of SuckerTree UL menus, separated by commas
+	
+	function buildsubmenus(){
+	for (var i=0; i<menuids.length; i++){
+	  var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
+		for (var t=0; t<ultags.length; t++){
+		ultags[t].parentNode.getElementsByTagName("a")[0].className="subfolderstyle"
+		ultags[t].parentNode.onmouseover=function(){
+		this.getElementsByTagName("ul")[0].style.display="block"
+		}
+		ultags[t].parentNode.onmouseout=function(){
+		this.getElementsByTagName("ul")[0].style.display="none"
+		}
+		}
+	  }
+	}
+	
+	if (window.addEventListener)
+	window.addEventListener("load", buildsubmenus, false)
+	else if (window.attachEvent)
+	window.attachEvent("onload", buildsubmenus)
+	
+	</script>
+	
+	<link href="egc.css" type="text/css" rel="stylesheet">
+	
+	<link href="suckertree.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<table align="center" width="750px" cellspacing="0px" style="margin-top: 10px;">
+	<tr width="100%" height="150px">
+		<td colspan="2" background="top.jpg">	
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="150px" valign="top" style="background-color: #F3A200;">
+			<div align="center" class="suckerdiv" style="padding-top: 20px; padding-bottom: 15px">
+				<ul id="main_menu">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="egc_info.html">EGC</a>
+						<ul>
+							<li><a href="officers.html">Members</a></li>
+							<li><a href="committees.html">Committees</a></li>
+							<li><a href="cup.html">Engineering Cup</a></li>
+						</ul>
+					</li>
+					<li><a href="docs.html">Documents</a>
+						<ul>
+							<li><a href="constitution.pdf">Constitution</a></li>
+							<li><a href="standing_rules.pdf">Standing Rules</a></li>
+							<li><a href="alloc_guidelines.html">Allocation Guidelines</a></li>
+							<li><a href="meetdocs.html">Agenda/Minutes/ Bills/Resolutions</a></li>
+							<li><a href="elections.html">Elections</a></li>
+							<li><a href="grill.pdf">Grill Rental</a></li>
+						</ul>
+					</li>
+					<li><a href="society_info.html">Society Info</a>
+						<ul>
+							<li><a href="society_list.html">Recognized Societies</a></li>
+							<li><a href="funding_info.html">Funding Info</a></li>
+						</ul>
+					</li>
+					<li><a href="news_archive.html">News Archive</a></li>
+				</ul>
+			</div>
+			
+			<div align="center" class="suckerdiv" style="padding-bottom: 10px">
+				<ul id="ru_menu">
+					<li><a href="#">Academics</a>
+						<ul>
+							<li><a href="http://coewww.rutgers.edu" target="_blank">School of Engineering</a></li>
+							<li><a href="https://www.acs.rutgers.edu/grades" target="_blank">Transcrips</a></li>
+							<li><a href="http://www.ecs.rutgers.edu" target="_blank">Engineering Computer Services</a></li>
+						</ul>
+					</li>
+					<li><a href="#">RU Links</a>
+						<ul>
+							<li><a href="http://nbpweb.rutgers.edu/menus/studgov.shtml" target="_blank">Student Governing Associations</a></li>
+							<li><a href="http://housing.rutgers.edu" target="_blank">Housing</a></li>
+							<li><a href="http://parktran.rutgers.edu" target="_blank">ParkTran</a></li>
+							<li><a href="http://health.rutgers.edu" target="_blank">Health Centers</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</td>
+		
+		<td rowspan="2" width="600px" valign="top" style="padding: 20px 15px 5px 15px; border-left: solid 1px #444444; border-top: solid 1px #444444;">
+			<p>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Engineering Governing Council is the governing body of the Rutgers University School of Engineering on the New Brunswick/Piscataway Campus. The EGC:
+			</p>
+			<ul style="margin-top: 5px;"><span style="list-style: outside disc; color: #FF8822;">
+				<li>Acts as the liasion between faculty, administration, alumni, and the students.</li>
+				<li>Distributes funds to Engineering societies and organizations.</li>
+				<li>Represents the interests of all Engineering students with a unified voice in the University Community.</li>
+			</span></ul>
+			<br>
+			
+			<p align="right" style="font-family: Arial; font-size: 12px;">
+				<u>Next meeting</u>: September 25, 2006 <span class="council">Council Meeting</span><br>
+				(8:00 PM @ BCC 116)
+			</p>
+
+	
+			<table class="title"><tr>
+				<td width="51px" style="padding-right: 8px;">News</td>
+				<td style="padding-right: 5px;"><hr color="#FF8822" size="2px"></td>
+			</tr></table>
+
+			<div style="text-align: center; padding: 10px 0px 20px 0px;">
+				<b style="font-size: 16px;">Have a great summer!</b><br>
+				<br>
+				If you have any comments, questions, or suggestions, please contact the <a href="mailto: egc_exec@email.rutgers.edu" class="email">EGC Executive Board</a>
+			</div>
+			
+			
+			<div style="font-size: 12px; margin: 20px 0px 10px 0px;">
+				<hr align="center" color="#BBBBBB" width="75%" size="1px" style="margin: 0px 0px 5px 0px;">
+				<center>
+					Questions? Contact the <a href="mailto: egc_exec@email.rutgers.edu" class="email">EGC Executive Board</a><br>
+					<br>
+					© 2006 Rutgers, The State University of New Jersey. All rights reserved.
+				</center>
+			</div>
+		</td>
+	</tr>
+	
+	<tr><td width="150px" align="center" valign="bottom" style="background-color: #F3A200; padding-bottom: 12px;">
+			Webmaster: <br>
+			<a href="mailto: sodhiar@eden.rutgers.edu" class="email">Rohit Sodhia</a>
+	</td></tr>
+</table>
+</body>
+</html>

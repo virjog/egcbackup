@@ -1,0 +1,24 @@
+/*
+	Pen&Paper Online CSS Stylesheet
+	Created by Rogue Media, designer Rohit Sodhia
+*/
+
+body {
+	font-family: Times New Roman;
+	font-size: 14px;
+	text-align: justify;
+}
+
+a {
+	color: #6666FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0000AA;
+	text-decoration: underline;
+}
+
+input.submit {
+	background: #FFDDDD;
+}

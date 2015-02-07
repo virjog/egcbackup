@@ -1,0 +1,234 @@
+/*
+	Engineering Governing Council CSS Stylesheet
+	Designed by Rohit Sodhia
+*/
+
+body, input, textarea {
+	font-family: Arial;
+	font-size: 12px;
+}
+
+body {
+	background: #444444 url(rutgers_seal.jpg) top left no-repeat;
+	padding: 0px;
+}
+
+div {
+	text-align: justify;
+}
+
+img {
+	border: none;
+}
+
+
+/* Link Controls */
+a:link, a:visited {
+	color: #3366FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #669900;
+	text-decoration: underline;
+}
+
+
+/* Button */
+span.button {
+	background: url(buttons/button.jpg) left center no-repeat;
+	padding: 3px 0px 5px 0px;
+}
+
+span.button input {
+	background: none;
+	border: none;
+	margin: 0px 7px;
+	font-weight: bold;
+}
+
+span.button span {
+	background: url(buttons/buttonR.jpg) right center no-repeat;
+	border: none;
+	padding: 3px 0px 5px 0px;
+}
+
+span.button:hover {
+	background: url(buttons/buttonD.jpg) left center no-repeat;
+}
+
+span.button:hover span {
+	background: url(buttons/buttonDR.jpg) right center no-repeat;
+}
+
+
+/* Rounded Fieldset */
+div.fieldset div.top {
+	height: 10px;
+	padding-bottom: 8px;
+	background: url(fieldset/top.jpg) bottom left no-repeat;
+	text-align: right;
+}
+
+div.fieldset div.top div.topR {
+	height: 10px;
+	padding-bottom: 8px;
+	background: url(fieldset/topR.jpg) bottom right no-repeat;
+}
+
+div.fieldset div.top div.topR div.title {
+	float: left;
+	background: #FFFFFF;
+	margin-left: 25px;
+	padding: 0px 7px;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+div.fieldset div.middleM {
+	background: url(fieldset/left.jpg) left repeat-y;
+}
+
+div.fieldset div.middleS {
+	padding: 5px 10px;
+	background: url(fieldset/right.jpg) right repeat-y;
+}
+
+div.fieldset div.bottom {
+	height: 10px;
+	background: url(fieldset/bottom.jpg);
+}
+
+div.fieldset div.bottom div {
+	height: 10px;
+	background: url(fieldset/bottomR.jpg) right no-repeat;
+}
+
+
+/* IDs */
+#layout {
+	width: 950px;
+}
+
+#header {
+	height: 170px;
+}
+
+#body {
+}
+
+#menu {
+	width: 160px;
+	float: left;
+	z-index: 10;
+}
+
+#menu #menuDiv {
+	background: url(menuBG.jpg) top left repeat-y;
+	padding: 0px 5px;
+}
+
+#body {
+	background: #FFFFFF url(bodyBG.jpg) repeat-y;
+	margin-left: 130px;
+	margin-right: 40px;
+	z-index: 0;
+}
+
+#content {
+	margin-left: 20px;
+	padding: 0px 10px;
+	padding-right: 25px;
+}
+
+#footer {
+	background: url(bodyBottom.gif) bottom right no-repeat;
+	margin-right: 40px;
+	padding: 10px;
+	margin-left: 130px;
+}
+
+#footer #footerContent {
+	margin-left: 20px;
+	margin-right: 15px;
+	text-align: center;
+}
+
+#footer #footerContent hr {
+	border: none;
+	background: #777777;
+	color: #777777;
+	height: 1px;
+	margin: 5px 0px;
+}
+
+
+/* Classes */
+div.para {
+	text-indent: 20px;
+	padding: .8em 0px;
+}
+
+div.tr {
+	padding: 3px 0px;
+}
+
+div.tr div.labelBalance {
+	padding-top: 3px;
+}
+
+div.tr div.td {
+	float: left;
+}
+
+.superscript {
+	vertical-align: super;
+	font-size: .8em;
+}
+
+.header {
+	font-weight: bold;
+	font-size: 16px;
+	color: #FF8822;
+	margin: 2em 0px .5em 0px;
+}
+
+.council {
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.committee {
+	font-weight: bold;
+	color: #0000FF;
+}
+
+.title, .subtitle {
+	background: url(titleBeam.jpg) center repeat-x;
+	font-family: Arial;
+	color: #FF8822;
+	margin-bottom: 10px;
+	border-collapse: collapse;
+}
+
+.title {
+	background: url(titleBeam.jpg) center repeat-x;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.subtitle {
+	background: url(subtitleBeam.jpg) center repeat-x;
+	text-align: center;
+	font-size: 17px;
+	width: 60%;
+}
+
+.title span, .subtitle span {
+	background: #FFFFFF;
+	padding-right: 8px;
+}
+
+.subtitle span {
+	padding-left: 8px;
+}

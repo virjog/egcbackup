@@ -1,0 +1,16 @@
+The Representative of the Month pictures were recently taken, and below are the results:<br /><br />
+<center>
+<table border="0" cellpadding="2" cellspacing="0">
+  <tr>
+    <td><img src="images/RepOfTheMonth/September.2008.Small.jpg"></td>
+    <td><img src="images/RepOfTheMonth/October.2008.Small.jpg"></td>
+    <td><img src="images/RepOfTheMonth/November.2008.Small.jpg"></td>
+  </tr>
+  <tr>
+    <td>September:<br>Adam Schatteman</td>
+    <td>October:<br>Sean P. Murray</td>
+    <td>November:<br>David A. Friedeborn</td>
+  </tr>
+</table>
+</center>
+<br><br>

@@ -1,0 +1,3 @@
+Society calendars can now be shared on the main <a href="societies/societyCalendar.php">EGC Society Calendar</a>, so events are now updated much more frequently. Check it out to become more involved!
+<br>
+<br>

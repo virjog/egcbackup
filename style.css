@@ -1,0 +1,218 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+html { 
+  background: url(images/bg5.png);
+  background-repeat: repeat;
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+  /*font-variant:small-caps;*/
+  font-family: 'Lato', sans-serif;
+  /*font-family: 'Ubuntu', sans-serif;*/
+  min-width: 1200px;
+  min-height: 600px;
+  max-width: 1400px;
+  max-height: 800px;
+  text-align: center;
+}
+
+header {
+/*background-image: url(images/egc.gif), url(images/ru.gif);
+background-position:right, left;
+background-repeat: no-repeat;
+background-size: 150px 150px; */
+/*opacity:0.1;
+filter:alpha(opacity=90);*/
+background-image: url(images/banner.jpg);
+background-size: 100% 100%;
+text-align: center;
+height: 150px;
+font-size: 50px;
+background-color:#efefef;
+font-variant:small-caps;
+}
+
+#banner {width: 100%;
+-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #efefef), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% ); 
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf'); 
+	background-color:#efefef;
+
+}
+
+body { margin-left:auto;
+margin-right:auto;
+width: 80%;
+clear: both;
+}
+
+#main {
+background-color:white;
+height:  auto;
+width: auto;
+box-shadow: 0 0 5px #BBB;border:1px solid #CCC; background-color:#FFF;
+overflow: auto;
+}
+
+#resources {
+text-align: left;
+margin-left: 50px;
+
+}
+
+#news
+{
+text-align: center;
+float: left;
+height: auto;
+width: 100%;
+background-color: white;
+}
+
+
+
+#faq {
+width: 90%;
+height: auto;
+clear: both;
+text-align: left;
+margin-left:50px;
+}
+
+#fb {
+margin-top: 10px;
+margin-right: 10px;
+width: 20%;
+height: auto;
+text-align: left;
+float: right;
+}
+
+#dates 
+{
+text-align: center;
+float: left;
+height: auto;
+width: 70%;
+background-color: white;
+margin:10px;
+}
+
+#links_div {
+width: 40%;
+background-color: #ABABAB;
+height: auto;
+float: right;
+}
+
+#footer {
+float: right;
+width: 100%;
+background-color: white;
+text-align: center;
+}
+
+span{
+    display:block;
+    font-size: 16px;
+    color:#d21034;
+}
+
+a {
+text-decoration: none;
+color: #d21034;
+}
+
+a:hover {
+text-decoration: none;
+color: black;
+}
+
+
+
+
+h1 {font-variant:small-caps;
+font-family: 'Ubuntu', sans-serif;}
+
+h2, h3, h4 {
+text-align: center;
+color: #d21034;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.resource{
+color: black;
+text-decoration: underline;
+}
+
+.resource:hover {
+color: #d21034;
+text-decoration: underline;
+}
+
+/*  BUTTON */
+
+.button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #efefef), color-stop(1, #efefef) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% ); 
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf'); 
+	background-color:#dcdcdc;
+	text-indent:0;
+	/*border:1px solid #dcdcdc;*/
+	display:inline-block;
+	/*color:#777777;*/
+	color: black;
+	font-family: "Oswald";
+	font-size:18px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:16.6%;
+	text-decoration:none;
+	text-align:center;
+	/*text-shadow:1px 1px 0px #ffffff;*/
+}
+
+.button_page {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #eeeeee) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eee', endColorstr='#ededed');
+	background:#dedede;
+	text-indent:0;
+	/*border:1px solid #dcdcdc;*/
+	display:inline-block;
+	color:#111111;
+	font-family: "Oswald";
+	font-size:18px;
+	font-weight:bold;
+	font-style:normal;
+	height:40px;
+	line-height:40px;
+	width:16.6%;
+	text-decoration:none;
+	text-align:center;
+	/*text-shadow:1px 1px 0px #ffffff;*/
+}
+
+.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dedede), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dedede;
+}.button:active {
+
+}
+
+
+/*  END OF CLASSES */

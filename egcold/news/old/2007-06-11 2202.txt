@@ -1,0 +1,6 @@
+					<a href="" onclick="openFile('news/images/trenton1.jpg','image',900,600); return false;"><img src="news/images/trenton1s.jpg" style="float: left; margin: 5px 10px 5px 0px;"></a>
+					Greetings! Despite this brief respite from endless class work and testing, we at the EGC have been quite busy throughout the last month. In particular, a small group of EGC members attended the Rutgers Day in Trenton (May 14th) to lobby on behalf of the Outstanding Scholars Recruitment Program (See <a href="documents/archieve/amb_06-07/Bill_ES07_13.doc" target="_blank">Resolution ES07-13</a>). Special thanks go out to Representative Stephanie Loh, Senator Wajdi Kanj, and RCGA Representative Joe Wolf for having worked so hard to follow-up on this important issue!<br />
+					<br />
+					<a href="" onClick="openFile('news/images/trenton2.jpg','image',890,600); return false;"><img src="news/images/trenton2s.jpg" style="float: right; margin: 0px 0px 0px 10px;"></a>
+					In addition to creating and presenting a large display and pamphlets, the OSRP delegation met with several state assemblymen and senators. Furthermore, many students even took the opportunity to sit in on a meeting of the Budget and Appropriations Committee. We at the EGC applaud their efforts and look forward to further lobbying efforts in our capital in the upcoming year.<br />
+					<br /><br /><br />

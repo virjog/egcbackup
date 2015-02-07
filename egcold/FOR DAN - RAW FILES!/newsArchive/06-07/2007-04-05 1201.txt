@@ -1,0 +1,15 @@
+<img src="images/newpic.jpg" align="left">The latest Council meeting saw Dr. Richard L. McCormick as a guest speaker. Representative of the Month for March was <b>Nikisha Shah</b>, and Representative of the Month for January was <b>Ayaka Koshibe</b>. Congratulations on all of your hard work!<br />
+<br />
+Elections are coming up online from April 16 - April 19. More information is available <a href="../../elections.html" class="link">here</a>. All positions are up for re-election! Please be advised of the following schedule for April Council and Committee meetings:<br />
+<br />
+April 9: Committee Meetings<br />
+April 16: Council Meeting - Meeting Cancelled<br />
+April 23: Council Meeting - Joint meeting of the current and newly elected Council<br />
+April 30: Council Meeting - Joint meeting of the current and newly elected Council<br />
+<br />
+In other business, the Council has moved that the following will appear as a referenda question on the elections ballot:<br />
+<br />
+<i>
+	Would you support an amendment to have all changes to the EGC Constitution voted on by all Engineering students?<br />
+	Note: All changes to the Constitution would require at least 5% of the engineering student population.
+</i>

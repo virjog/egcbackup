@@ -1,0 +1,3 @@
+The <a href="forms/seniorDirectory/results.php">EGC Senior Directory</a> has now been created! If you are leaving Rutgers next year or are an EGC alumnus/alumna and would like to stay in touch, please fill out the <a href="forms/seniorDirectory">form</a>!
+<br>
+<br>

@@ -1,0 +1,367 @@
+<!-- thumbs:checksum:0.0:$C23E799F -->
+<html>
+<!-- saved from url=(0013)about:internet -->
+<head><title>Slideshow</title>
+
+<script language = "JavaScript">
+<!-- hide me
+// copyright 2000,2006 Greggman
+var agt       = navigator.userAgent.toLowerCase();
+var is_major  = parseInt(navigator.appVersion);
+var is_ie     = (agt.indexOf("msie") != -1);
+var is_ie4up  = (is_ie  && (is_major >= 4));
+var is_nav    = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                  && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                  && (agt.indexOf('webtv')==-1));
+var is_nav4up = (is_nav && (is_major >= 4));
+var is_mac    = (agt.indexOf("mac")!=-1);
+var slideTime = 5;
+var startClock = false;
+
+function picInfo(name, page, width, height)
+{
+   this.name = name;
+   this.page = page;
+   this.width = width;
+   this.height= height;
+}
+
+var picTable = new Array (
+new picInfo("mi_DSC03012_JPG.jpg", "md_DSC03012_JPG.html", 640, 360),new picInfo("mi_DSC03014_JPG.jpg", "md_DSC03014_JPG.html", 640, 360),new picInfo("mi_DSC03018_JPG.jpg", "md_DSC03018_JPG.html", 640, 360),new picInfo("mi_DSC03020_JPG.jpg", "md_DSC03020_JPG.html", 640, 360),new picInfo("mi_DSC03026_JPG.jpg", "md_DSC03026_JPG.html", 640, 360),new picInfo("mi_DSC03046_jpg.jpg", "md_DSC03046_jpg.html", 640, 360),new picInfo("mi_DSC03062_jpg.jpg", "md_DSC03062_jpg.html", 640, 360),new picInfo("mi_DSC03063_jpg.jpg", "md_DSC03063_jpg.html", 640, 360),new picInfo("mi_DSC03067_jpg.jpg", "md_DSC03067_jpg.html", 640, 360),new picInfo("mi_DSC03071_jpg.jpg", "md_DSC03071_jpg.html", 640, 360),new picInfo("mi_DSC03075_jpg.jpg", "md_DSC03075_jpg.html", 640, 360),new picInfo("mi_DSC03077_jpg.jpg", "md_DSC03077_jpg.html", 640, 360),new picInfo("mi_DSC03088_jpg.jpg", "md_DSC03088_jpg.html", 640, 360),new picInfo("mi_DSC03091_jpg.jpg", "md_DSC03091_jpg.html", 640, 360),new picInfo("mi_DSC_0121_JPG.jpg", "md_DSC_0121_JPG.html", 640, 429),new picInfo("mi_DSC_0173_JPG.jpg", "md_DSC_0173_JPG.html", 640, 429),new picInfo("mi_DSC_0174_JPG.jpg", "md_DSC_0174_JPG.html", 640, 429),new picInfo("mi_DSC_0178_JPG.jpg", "md_DSC_0178_JPG.html", 640, 429),new picInfo("mi_DSC_0179_JPG.jpg", "md_DSC_0179_JPG.html", 640, 429),new picInfo("mi_DSC_0183_JPG.jpg", "md_DSC_0183_JPG.html", 640, 429),new picInfo("mi_DSC_0188_JPG.jpg", "md_DSC_0188_JPG.html", 640, 429),new picInfo("mi_DSC_0195_JPG.jpg", "md_DSC_0195_JPG.html", 640, 429),new picInfo("mi_DSC_0199_JPG.jpg", "md_DSC_0199_JPG.html", 640, 429),new picInfo("mi_DSC_0200_JPG.jpg", "md_DSC_0200_JPG.html", 640, 429),new picInfo("mi_DSC_0207_JPG.jpg", "md_DSC_0207_JPG.html", 640, 429),new picInfo("mi_DSC_0221_JPG.jpg", "md_DSC_0221_JPG.html", 640, 429),new picInfo("mi_DSC_0228_JPG.jpg", "md_DSC_0228_JPG.html", 640, 429),new picInfo("mi_DSC_0229_JPG.jpg", "md_DSC_0229_JPG.html", 640, 429),new picInfo("mi_DSC_0230_JPG.jpg", "md_DSC_0230_JPG.html", 640, 429),new picInfo("mi_DSC_0245_JPG.jpg", "md_DSC_0245_JPG.html", 640, 429),new picInfo("mi_DSC_0249_JPG.jpg", "md_DSC_0249_JPG.html", 640, 429),new picInfo("mi_DSC_0253_JPG.jpg", "md_DSC_0253_JPG.html", 640, 429),new picInfo("mi_DSC_0258_JPG.jpg", "md_DSC_0258_JPG.html", 640, 429),new picInfo("mi_DSC_0273_JPG.jpg", "md_DSC_0273_JPG.html", 640, 429),new picInfo("mi_DSC_0291_JPG.jpg", "md_DSC_0291_JPG.html", 640, 429),new picInfo("mi_DSC_0295_JPG.jpg", "md_DSC_0295_JPG.html", 640, 429),new picInfo("mi_DSC_0296_JPG.jpg", "md_DSC_0296_JPG.html", 640, 429),new picInfo("mi_DSC_0316_JPG.jpg", "md_DSC_0316_JPG.html", 640, 429),new picInfo("mi_DSC_0319_JPG.jpg", "md_DSC_0319_JPG.html", 640, 429),new picInfo("mi_DSC_0330_JPG.jpg", "md_DSC_0330_JPG.html", 640, 429),new picInfo("mi_DSC_0343_JPG.jpg", "md_DSC_0343_JPG.html", 640, 429),new picInfo("mi_MOV03028_jpg.jpg", "md_MOV03028_jpg.html", 640, 480),new picInfo("mi_MOV03042_jpg.jpg", "md_MOV03042_jpg.html", 640, 480),new picInfo("mi_MOV03044_jpg.jpg", "md_MOV03044_jpg.html", 640, 480),new picInfo("mi_MOV03049_jpg.jpg", "md_MOV03049_jpg.html", 640, 480),new picInfo("mi_MOV03052_jpg.jpg", "md_MOV03052_jpg.html", 640, 480),new picInfo("mi_MOV03054_jpg.jpg", "md_MOV03054_jpg.html", 640, 480),new picInfo("mi_MOV03056_jpg.jpg", "md_MOV03056_jpg.html", 640, 480),new picInfo("mi_MOV03058_jpg.jpg", "md_MOV03058_jpg.html", 640, 480),new picInfo("mi_MOV03059_jpg.jpg", "md_MOV03059_jpg.html", 640, 480),new picInfo("mi_MOV03060_jpg.jpg", "md_MOV03060_jpg.html", 640, 480),new picInfo("mi_MOV03061_jpg.jpg", "md_MOV03061_jpg.html", 640, 480),new picInfo("mi_MOV03065_jpg.jpg", "md_MOV03065_jpg.html", 640, 480),new picInfo("mi_MOV03072_jpg.jpg", "md_MOV03072_jpg.html", 640, 480),new picInfo("mi_MOV03073_jpg.jpg", "md_MOV03073_jpg.html", 640, 480),new picInfo("mi_MOV03078_jpg.jpg", "md_MOV03078_jpg.html", 640, 480),new picInfo("mi_MOV03086_jpg.jpg", "md_MOV03086_jpg.html", 640, 480)
+                );
+var picIndex  = 0;      // current picture index
+var curIndex  = 0;
+var timerID   = null;   // timer handler
+var slideWin  = null;   // window with slide
+var slideMode = 1;      // 1 = automatic, 0 = manual
+var chasm = screen.availWidth;
+var mount = screen.availHeight;
+var junk;
+var dprintcache = "";
+var fDontWaitForLoading = true;
+var closing = false;
+
+function dprint(msg)
+{
+   if (window.document.debugstuff && window.document.debugstuff.debugtext)
+   {
+      window.document.debugstuff.debugtext.value += dprintcache + msg;
+      dprintcache = "";
+   }
+   else
+   {
+      dprintcache += msg;
+   }
+}
+
+function handleUnload(e)
+{
+   window.closing = true;
+
+   if (window.opener && !window.opener.closed)
+   {
+
+      picIndex--;
+      if (picIndex < 0)
+      {
+         picIndex = picTable.length - 1;
+      }
+
+      // -- return to midsize page --
+      newURL   = picTable[picIndex].page;
+
+      // -- return to index --
+      //newURL   = "../index.php";
+
+      // -- return to thumbnail page --
+      //newURL = picTable[picIndex].page;
+      //newURL = newURL.substr(0, newURL.lastIndexOf("/") + 1) + "thumbs_p.html";
+
+      window.opener.location.href= newURL;
+   }
+}
+
+function clearTimer ()
+{
+   if (timerID)
+   {
+      window.clearTimeout(timerID);
+      timerID = null;
+   }
+}
+
+function shutItDown ()
+{
+   window.close();
+}
+
+function closeIt ()
+{
+   clearTimer ();
+   window.setTimeout("shutItDown();", 5);
+}
+
+function doPrevSlide()
+{
+  // back up a picture (2 because we already advanced one before)
+  picIndex -= 2;
+  if (picIndex < 0)
+  {
+     picIndex += picTable.length;
+  }
+  // put in manual mode and go to next image
+  slideMode = 0;
+  queueNextPicture (5);
+}
+
+function doNextSlide()
+{
+   // put in manual mode and go to next image
+   slideMode = 0;
+   queueNextPicture (5);
+}
+
+// goto next slide and resume clock
+function doPlaySlide()
+{
+   // go back to auto mode
+   slideMode = 1;
+   queueNextPicture (5);
+}
+
+function doExitSlide()
+{
+   // close it down
+   closeIt ();
+}
+
+function doHideSlide()
+{
+   // close it down
+   var sc = window.document.getElementById("slideControl");
+   sc.style.visibility = "hidden";
+}
+
+function doShowSlide()
+{
+   // close it down
+   var sc = window.document.getElementById("slideControl");
+   sc.style.visibility = "visible";
+}
+
+
+function handleKey (whichCode)
+{
+   switch (whichCode) {
+   case  27: // esc
+   case  81: // 'q':
+   case 113: // 'Q':
+      doExitSlide();
+      break;
+   case 13: // return
+      doPlaySlide();
+      break;
+   case  78: // 'N':
+   case 110: // 'n':
+   case  32: // space
+      doNextSlide ();
+      break;
+   case  80: // 'P':
+   case 112: // 'p':
+      doPrevSlide ();
+      break;
+   case  83: // 'S':
+   case 115: // 's':
+      doShowSlide ();
+      break;
+   case  72: // 'H':
+   case 104: // 'h':
+      doHideSlide ();
+      break;
+   }
+}
+
+function handleClick(e)
+{
+   window.handleKey(83); // show
+}
+
+function handlePress(e)
+{
+   var whichCode = (window.Event) ? e.which : e.keyCode;
+
+   window.handleKey(whichCode);
+}
+
+function checkToStartClock ()
+{
+   if (window.startClock || fDontWaitForLoading)
+   {
+      queueNextPicture (window.slideTime * 1000);
+   }
+   else
+   {
+      setupToCheckStartClock ();
+   }
+}
+
+function setupToCheckStartClock ()
+{
+   clearTimer ();
+   timerID = window.setTimeout("checkToStartClock();", 1 * 1000);
+}
+
+function resizeImage()
+{
+    var picWidth = picTable[curIndex].width;
+    var picHeight = picTable[curIndex].height;
+    var newWidth  = picWidth;
+    var newHeight = picHeight;
+    var scrnWidth = 300;
+    var scrnHeight = 300;
+
+    if (is_nav4up)
+    {
+     scrnWidth  = window.innerWidth;
+     scrnHeight = window.innerHeight;
+    }
+    else if (is_ie4up)
+    {
+     scrnWidth  = window.screen.availWidth;
+     scrnHeight = window.screen.availHeight;
+    }
+    else if (document.body)
+    {
+     scrnWidth = document.body.clientWidth;
+     scrnHeight = document.body.clientHeight;
+    }
+    else
+    {
+     scrnWidth = 640;
+     scrnHeight = 480;
+    }
+
+    if (newWidth > scrnWidth)
+    {
+     newHeight = (newHeight * scrnWidth) / newWidth;
+     newWidth  = scrnWidth;
+    }
+
+    if (newHeight > scrnHeight)
+    {
+     newWidth = (newWidth * scrnHeight) / newHeight;
+     newHeight = scrnHeight;
+    }
+    newWidth = Math.floor(newWidth);
+    newHeight = Math.floor(newHeight);
+
+
+   var th = window.document.getElementById("theimage");
+   th.width = newWidth;
+   th.height = newHeight;
+
+   //dprint("new: " + newWidth + " x " + newHeight + " scrn: " + scrnWidth + " x " + scrnHeight + "\n");
+}
+
+function showNextPicture ()
+{
+   // clear timeout
+   clearTimer();
+
+   curIndex = picIndex;
+   var th = window.document.getElementById("theimage");
+   th.src = picTable[picIndex].name;
+   th.onload = resizeImage;
+
+   picIndex++;
+   if (picIndex >= picTable.length)
+   {
+      picIndex = 0;
+   }
+   if (slideMode)
+   {
+      startClock = false;
+      setupToCheckStartClock();
+   }
+}
+
+function queueNextPicture (time)
+{
+   clearTimer ();
+   timerID = window.setTimeout("showNextPicture();", time);
+}
+
+// start us up
+
+// get which picture to start with
+if (window.location.search.length > 0)
+{
+   var index = location.search.substring(1);
+   picIndex = (index - 0);
+   if (picIndex >= picTable.length)
+   {
+      picIndex = 0;
+   }
+}
+//showNextPicture();
+
+if (is_nav4up)
+{
+   document.onkeydown = handlePress;
+   document.captureEvents(Event.KEYDOWN);
+}
+
+// show me -->
+</script>
+<style type="text/css">
+.slideControl {
+  border: solid 1px gray;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  visibility: hidden;
+}
+</style>
+</head>
+<body
+    onkeypress="handlePress(event);return true;"
+    onunload="handleUnload(event);"
+    onload="doPlaySlide();"
+    topmargin="0" leftmargin="0" bgcolor="#000000">
+<div class="slideControl" id="slideControl">
+<table border="0" cellspacing="0" cellpadding="0" align="center" height="100%"><tr><td align="center" valign="center">
+<table border="0" cellspacing="3" cellpadding="0" align="center"><tr>
+<td><img border="0" width="37" height="35" src="slideprev.gif" onClick="doPrevSlide(); return false;"></td>
+<td><img border="0" width="37" height="35" src="slidenext.gif" onClick="doNextSlide(); return false;"></td>
+</tr></table>
+<table border="0" cellspacing="3" cellpadding="0" align="center"><tr>
+<td><img border="0" width="37" height="35" src="slideplay.gif" onClick="doPlaySlide(); return false;"></td>
+<td><img border="0" width="37" height="35" src="slidehide.gif" onClick="doHideSlide(); return false;"></td>
+<td><img border="0" width="37" height="35" src="slideexit.gif" onClick="doExitSlide(); return false;"></td>
+</tr></table>
+</td></tr></table><!--
+<br><br><br>
+
+<form name="debugstuff">
+  <p><textarea rows="20" name="debugtext" cols="60"></textarea></p>
+</form>-->
+</div>
+<table border="0" width="100%" height="100%" onmouseup="handleClick(event);return true;">
+  <tr>
+    <td width="100%">
+      <div align="center">
+        <center>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>
+              <p align="center"><img id="theimage" border="0" onmouseup="handleClick(event);return true;"></p>
+            </td>
+          </tr>
+        </table>
+        </center>
+      </div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

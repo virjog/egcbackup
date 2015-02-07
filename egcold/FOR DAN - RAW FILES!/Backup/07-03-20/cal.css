@@ -1,0 +1,102 @@
+/*
+	Rutgers University Student Assembly Calendar CSS Stylesheet
+	Created by Rohit Sodhia
+*/
+
+#calendar, table, table tr, table tr td {
+	font: 11px "Arial";
+	color: #000000;
+}
+
+table tr td {
+	padding: 2px;
+	border: 1px solid #000000;
+	text-align: right;
+	height: 6em;
+	width: 80px;
+	vertical-align: top;
+}
+
+div {
+	text-align: left;
+}
+
+a:link, a:visited {
+	color: #0066FF;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #FF0000;
+	font-style: italic;
+}
+
+a:hover {
+	color: #FF8822;
+	text-decoration: none;
+}
+
+.titleText {
+	height: 1.3em;
+	font-weight: normal;
+	overflow: hidden;
+}
+
+#control, #month, #cal_table, #events {
+	width: 560px;
+}
+
+#events {
+	font-size: 12px;
+}
+
+#control {
+	margin: 1em 0px;
+	font-size: 11px;
+}
+
+#control a:link, #control a:visited {
+	color: #000000;
+	text-decoration: underline;
+}
+
+#control a:active {
+	color: #0066FF;
+	font-style: italic;
+}
+
+#control a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+#month {
+	color: #000000;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+#cal_table {
+	border-collapse: collapse;
+	padding: 0px 0px 5px 0px;
+}
+
+.cur_date {
+	color: #000000;
+	background: #CCCCCC;
+	font-weight: bold;
+}
+
+.cur_month {
+	color: #000000;
+	background: #FFFFFF;
+}
+
+.other_month {
+	color: #FFFFFF;
+	background: #FFFFFF;
+	border: none;
+}

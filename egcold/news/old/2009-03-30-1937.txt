@@ -1,0 +1,3 @@
+New <a href="elections.php">election information</a> is up, so please check out that page if you are interested in running for a position for next year!
+<br>
+<br>

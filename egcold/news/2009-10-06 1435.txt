@@ -1,0 +1,4 @@
+<a href="/woymm.php"><center><img src = "../images/woymm.jpg" height =" 150" width = "600"></center></a><br>
+Let us know your problems on campus are and we will make sure they are heard! Fill out a quick survey by clicking <a href = "/woymm.php">here </a> (or on the logo)
+<br>
+<br>

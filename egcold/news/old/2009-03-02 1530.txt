@@ -1,0 +1,3 @@
+The <a href="askBoltman.php">Ask Boltman</a> page has been recently updated with suggestions given to the EGC from the <a href="forms/suggestionBox">Suggestion Box</a>, so check it out if you haven't been updated recently.
+<br>
+<br>

@@ -1,0 +1,3 @@
+					<img src="../news/news/images/yay.jpg" style="float: left; margin-right: 10px;"><br />
+					The results for the Spring 2007 elections are now available <a href="../news/elections.html" class="link">here.</a> Congratulations to the newly elected Engineering Governing Council!<br />
+					<br /><br />
